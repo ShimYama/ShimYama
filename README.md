@@ -1,4 +1,10 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShimYama)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShimYama&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimYama" />
+</a>
 
 <!--
 **ShimYama/ShimYama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
